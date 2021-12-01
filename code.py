@@ -3,3 +3,6 @@ def fn():
 
 def fn2():
     print('fonction x')
+
+
+print("lkjlkjl")
